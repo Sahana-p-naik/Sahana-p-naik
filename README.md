@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suprasanna V G</h1>
-<h3 align="center">Data Fanatic. Excelled in Python ,Machine Learning & Data Analytics.</h3>
+<h1 align="center">Hi 👋, I'm Sahana P Naik</h1>
+<h3 align="center"> Excelled in Python ,Machine Learning & Data Analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprasannavg&label=Profile%20views&color=0e75b6&style=flat" alt="suprasannavg" /> </p>
 
